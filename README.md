@@ -1,6 +1,10 @@
 # PdfBot_WebApp
 End to End chatbot built using React, Rest API, GPT model, LangChain, RAG and VectorDB.
 
+[Click here to watch the demo](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/)
+
+[![image](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/assets/50318272/7eef19f8-c6e3-4e3e-b2b7-999bd5225119)](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV)
+
 
 ## Running the Web Application
 
@@ -16,7 +20,7 @@ npm start
 
 This will launch the frontend application.
 
-**2. llm_api (Backend)
+**2. llm_api (Backend)**
 
 To run the backend of the application, navigate to the 'llm_api' folder and execute the following command:
 
