@@ -1,7 +1,7 @@
 # PdfBot_WebApp
 End to End chatbot built using React, Rest API, GPT model, LangChain, RAG and VectorDB.
 
-YouTube: https://www.youtube.com/watch?v=v2zfz-iGc80&ab_channel=NivedhaBalakrishnan
+YouTube: [https://www.youtube.com/watch?v=v2zfz-iGc80&ab_channel=NivedhaBalakrishnan](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV)
 
 
 ## Running the Web Application
