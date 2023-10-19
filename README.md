@@ -16,7 +16,7 @@ npm start
 
 This will launch the frontend application.
 
-**2. llm_api (Backend)
+**2. llm_api (Backend)**
 
 To run the backend of the application, navigate to the 'llm_api' folder and execute the following command:
 
