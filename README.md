@@ -3,6 +3,10 @@ End to End chatbot built using React, Rest API, GPT model, LangChain, RAG and Ve
 
 YouTube: [Link](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/)
 
+[![Alt Text](![pic](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/assets/50318272/b659058e-f743-4482-98cc-ffefcd8088df)
+)]([https://yourlink.com](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/))
+
+
 
 ## Running the Web Application
 
