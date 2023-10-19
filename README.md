@@ -12,3 +12,18 @@ To start the frontend of the application, navigate to the 'llm_fe' folder and ru
 
 ```shell
 npm start
+```
+
+This will launch the frontend application.
+
+**2. llm_api (Backend)
+
+To run the backend of the application, navigate to the 'llm_api' folder and execute the following command:
+
+``` shell
+node app.js
+```
+
+This command will start the backend server.
+
+Please ensure that you have the necessary dependencies and configurations in place before running the application. For detailed setup and usage instructions, refer to the documentation in each component's respective folder.
